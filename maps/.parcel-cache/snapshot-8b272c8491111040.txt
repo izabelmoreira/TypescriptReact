@@ -11,7 +11,7 @@
 74C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\package.json133601664500186239 0
 91C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\mime-db\index.js133601664500051270 0
 106C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\axios\dist\esm\axios.min.js.map133601664498986626 0
-66C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\dist133601709111189526 1
+66C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\dist133601721958351634 1
 89C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\proxy-from-env133601664500186239 1
 72C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\index.html133601709106452351 0
 98C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\mime-types\package.json133601664500147320 0
@@ -19,7 +19,7 @@
 65C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\src133601679893603852 1
 100C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\asynckit\serialOrdered.js133601664498739852 0
 97C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\proxy-from-env\LICENSE133601664500154349 0
-78C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\src\CustomMap.ts133601708426060566 0
+78C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\src\CustomMap.ts133601721945500871 0
 98C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\axios\dist\axios.min.js133601664498849897 0
 74C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\src\index.ts133601707246081423 0
 73C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\src\User.ts133601664500253400 0
@@ -33,7 +33,7 @@
 84C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\form-data133601664499991203 1
 89C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\delayed-stream133601664499798511 1
 83C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\asynckit133601664498739852 1
-84C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\dist\index.b71e74eb.js133601708429982531 0
+84C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\dist\index.b71e74eb.js133601721957980193 0
 80C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\axios133601664499640989 1
 91C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\follow-redirects133601664499881542 1
 93C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\mime-db\HISTORY.md133601664499991203 0
@@ -162,7 +162,7 @@
 106C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\axios\lib\cancel\CancelToken.js133601664499113807 0
 103C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\axios\lib\cancel\isCancel.js133601664499146084 0
 105C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\axios\lib\adapters\adapters.js133601664499090111 0
-88C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\dist\index.b71e74eb.js.map133601708430426817 0
+88C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\dist\index.b71e74eb.js.map133601721958310388 0
 96C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\asynckit\lib\abort.js133601664498541664 0
 100C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\axios\lib\adapters\xhr.js133601664499090111 0
 94C:\Users\belzo\OneDrive\Documentos\Codes\TypescriptReact\maps\node_modules\axios\dist\axios.js133601664498820858 0
