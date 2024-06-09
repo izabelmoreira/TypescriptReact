@@ -4,6 +4,20 @@ interface RepositoriesState {
   data: string[];
 }
 
+interface SearchRepositoriesAction {
+  type: 'search_repositories';
+}
+
+interface SearchRepositoriesSuccessAction {
+  type: 'search_repositories_success';
+  payload: string[];
+}
+
+interface SearchRepositoriesError {
+  type: 'search_repositories_error';
+  payload: string;
+}
+
 const reducer = (state: RepositoriesState, action: any): RepositoriesState => {
   switch (action.type) {
     case ' search_repositories':
